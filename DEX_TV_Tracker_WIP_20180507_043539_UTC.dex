@@ -1,0 +1,22 @@
+# This is the data file for DEX_TV_Tracker_WIP.php v0.14
+# DO NOT MODIFY THIS FILE unless you understand the consequences!
+# There are **17** shows being tracked
+# TVMID,EPNUM,Watched,Name
+
+161,[DONE],2016-08-30,"Dexter"
+1850,S03E14,2018-04-27,"Supergirl"
+44,S04E22,2018-05-04,"Scorpion"
+1128,S01E01,2018-05-06,"Cosmos"
+1414,S15E04,2018-05-06,"Air Crash Investigation"
+2494,S03E10,2015-09-16,"Airplane Repo"
+124,[DONE],2017-04-20,"2 Broke Girls"
+66,S11E22,2018-05-06,"The Big Bang Theory"
+49,S05E15,2018-05-06,"Brooklyn Nine-Nine"
+126,S05E19,2018-05-05,"Mom"
+52,S04E15,2018-03-16,"How to Get Away with Murder"
+24,S08E20,2018-05-01,"Hawaii Five-0"
+263,S03E08,2018-05-06,"Last Week Tonight with John Oliver"
+31,S05E06,2018-01-22,"Marvel's Agents of S.H.I.E.L.D."
+172,S07E10,2017-09-24,"Suits"
+2114,S02E22,2017-05-21,"Quantico"
+2,[DONE],2016-06-24,"Person of Interest"

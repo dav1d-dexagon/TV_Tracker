@@ -1,0 +1,33 @@
+[17-Mar-2018 17:45:17 America/Chicago] PHP Catchable fatal error:  Object of class DateTimeZone could not be converted to string in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 255
+[17-Mar-2018 17:49:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'timezone_offset_get' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:49:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'timezone_offset_get' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:49:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'timezone_offset_get' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:50:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'timezone_offset_get' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:50:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'timezone_offset_get' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:50:40 America/Chicago] PHP Parse error:  syntax error, unexpected '"America/Toronto"' (T_CONSTANT_ENCAPSED_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:50:59 America/Chicago] PHP Parse error:  syntax error, unexpected '"America/Toronto"' (T_CONSTANT_ENCAPSED_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:52:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'timezone_open' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:52:23 America/Chicago] PHP Parse error:  syntax error, unexpected '"America/Toronto"' (T_CONSTANT_ENCAPSED_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 257
+[17-Mar-2018 17:52:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'time' (T_STRING) in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:53:02 America/Chicago] PHP Warning:  timezone_offset_get() expects parameter 2 to be DateTimeInterface, integer given in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:53:38 America/Chicago] PHP Warning:  gmdate() expects at least 1 parameter, 0 given in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:53:38 America/Chicago] PHP Warning:  timezone_offset_get() expects parameter 2 to be DateTimeInterface, boolean given in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:54:17 America/Chicago] PHP Warning:  timezone_offset_get() expects parameter 2 to be DateTimeInterface, string given in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:55:18 America/Chicago] PHP Warning:  timezone_offset_get() expects parameter 2 to be DateTimeInterface, string given in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:58:07 America/Chicago] PHP Fatal error:  Call to undefined function getOffset() in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 17:58:50 America/Chicago] PHP Fatal error:  Call to undefined function getTimestamp() in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 258
+[17-Mar-2018 18:12:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 269
+[17-Mar-2018 18:12:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 269
+[06-May-2018 20:55:52 America/Chicago] PHP Warning:  fopen(DEX_TV_Tracker_WIP.dex): failed to open stream: No such file or directory in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker_WIP.php on line 499
+[15-May-2018 08:01:31 America/Chicago] PHP Notice:  Undefined offset: 40 in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 753
+[15-May-2018 08:01:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 753
+[15-May-2018 08:01:31 America/Chicago] PHP Notice:  Undefined offset: 40 in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 754
+[15-May-2018 08:01:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 754
+[15-May-2018 08:01:31 America/Chicago] PHP Notice:  Undefined offset: 40 in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 755
+[15-May-2018 08:01:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 755
+[21-May-2018 16:58:00 America/Chicago] PHP Notice:  Undefined offset: 112 in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 753
+[21-May-2018 16:58:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 753
+[21-May-2018 16:58:00 America/Chicago] PHP Notice:  Undefined offset: 112 in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 754
+[21-May-2018 16:58:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 754
+[21-May-2018 16:58:00 America/Chicago] PHP Notice:  Undefined offset: 112 in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 755
+[21-May-2018 16:58:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/dexware/zipedia.com/DEX_TV_Tracker/DEX_TV_Tracker.php on line 755

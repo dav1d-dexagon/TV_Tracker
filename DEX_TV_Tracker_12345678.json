@@ -1,0 +1,653 @@
+{
+  "Description": {
+    "Program" : "DEX_TV_Tracker.php",
+    "Version" : "v0.13",
+    "Written" : "2018-09-24_15:06:07_UTC",
+    "UserUUID": "12345678",
+    "UserName": "Dav1d",
+    "UserTime": "America/Toronto",
+    "Count": "79",
+    "Notes": [
+      "#### DO NOT MODIFY THIS FILE! ",
+      "Fields: TVM_ID,EP_NUM,WATCHD,SH_NAM,U_Opts,U_Note",
+      "http://www.jsoneditoronline.org/",
+      "User comments can go here (eg. Also watch Lego Batman Movie!)",
+      "TODO: Use a real UUID!",
+      "TODO: Use this JSON file!"
+    ]
+  },
+  "Allshows": [
+    {
+      "TV_MID" : "161",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-08-30",
+      "SH_NAM" : "Dexter",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:524821476"
+    },
+    {
+      "TV_MID" : "1850",
+      "EP_NUM" : "S03E23",
+      "WATCHD" : "2018-06-20",
+      "SH_NAM" : "Supergirl",
+      "U_Opts" : "",
+      "U_Note" : "Random:176941006"
+    },
+    {
+      "TV_MID" : "44",
+      "EP_NUM" : "S04E22",
+      "WATCHD" : "2018-05-04",
+      "SH_NAM" : "Scorpion",
+      "U_Opts" : "",
+      "U_Note" : "Random:1809521814"
+    },
+    {
+      "TV_MID" : "1128",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "Cosmos",
+      "U_Opts" : "",
+      "U_Note" : "Random:1110979085"
+    },
+    {
+      "TV_MID" : "1414",
+      "EP_NUM" : "S15E03",
+      "WATCHD" : "2016-03-20",
+      "SH_NAM" : "Air Crash Investigation",
+      "U_Opts" : "",
+      "U_Note" : "Random:1623384007"
+    },
+    {
+      "TV_MID" : "2494",
+      "EP_NUM" : "S03E10",
+      "WATCHD" : "2015-09-16",
+      "SH_NAM" : "Airplane Repo",
+      "U_Opts" : "",
+      "U_Note" : "Random:1556478364"
+    },
+    {
+      "TV_MID" : "124",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-04-20",
+      "SH_NAM" : "2 Broke Girls",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1789419336"
+    },
+    {
+      "TV_MID" : "66",
+      "EP_NUM" : "S11E24",
+      "WATCHD" : "2018-05-12",
+      "SH_NAM" : "The Big Bang Theory",
+      "U_Opts" : "",
+      "U_Note" : "Random:1728540821"
+    },
+    {
+      "TV_MID" : "49",
+      "EP_NUM" : "S05E22",
+      "WATCHD" : "2018-05-21",
+      "SH_NAM" : "Brooklyn Nine-Nine",
+      "U_Opts" : "",
+      "U_Note" : "Random:323308285"
+    },
+    {
+      "TV_MID" : "126",
+      "EP_NUM" : "S05E22",
+      "WATCHD" : "2018-05-16",
+      "SH_NAM" : "Mom",
+      "U_Opts" : "",
+      "U_Note" : "Random:182850900"
+    },
+    {
+      "TV_MID" : "52",
+      "EP_NUM" : "S04E15",
+      "WATCHD" : "2018-03-16",
+      "SH_NAM" : "How to Get Away with Murder",
+      "U_Opts" : "",
+      "U_Note" : "Random:798258314"
+    },
+    {
+      "TV_MID" : "24",
+      "EP_NUM" : "S08E25",
+      "WATCHD" : "2018-05-21",
+      "SH_NAM" : "Hawaii Five-0",
+      "U_Opts" : "",
+      "U_Note" : "Random:2107118008"
+    },
+    {
+      "TV_MID" : "263",
+      "EP_NUM" : "S03E07",
+      "WATCHD" : "2016-04-04",
+      "SH_NAM" : "Last Week Tonight with John Oliver",
+      "U_Opts" : "",
+      "U_Note" : "Random:1117453074"
+    },
+    {
+      "TV_MID" : "31",
+      "EP_NUM" : "S05E06",
+      "WATCHD" : "2018-01-22",
+      "SH_NAM" : "Marvel's Agents of S.H.I.E.L.D.",
+      "U_Opts" : "",
+      "U_Note" : "Random:560842483"
+    },
+    {
+      "TV_MID" : "172",
+      "EP_NUM" : "S08E08",
+      "WATCHD" : "2018-09-08",
+      "SH_NAM" : "Suits",
+      "U_Opts" : "",
+      "U_Note" : "Random:36207101"
+    },
+    {
+      "TV_MID" : "2114",
+      "EP_NUM" : "S03E13",
+      "WATCHD" : "2018-08-17",
+      "SH_NAM" : "Quantico",
+      "U_Opts" : "",
+      "U_Note" : "Random:398953375"
+    },
+    {
+      "TV_MID" : "2",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-06-24",
+      "SH_NAM" : "Person of Interest",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1285823727"
+    },
+    {
+      "TV_MID" : "4",
+      "EP_NUM" : "S06E23",
+      "WATCHD" : "2018-06-22",
+      "SH_NAM" : "Arrow",
+      "U_Opts" : "",
+      "U_Note" : "Random:1391824100"
+    },
+    {
+      "TV_MID" : "68",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-05-19",
+      "SH_NAM" : "Castle",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:500060811"
+    },
+    {
+      "TV_MID" : "735",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-03-29",
+      "SH_NAM" : "CSI: Cyber",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1375595901"
+    },
+    {
+      "TV_MID" : "1858",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2015-12-16",
+      "SH_NAM" : "Minority Report",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1403623858"
+    },
+    {
+      "TV_MID" : "2473",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-04-28",
+      "SH_NAM" : "Limitless",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1289654335"
+    },
+    {
+      "TV_MID" : "340",
+      "EP_NUM" : "S04E12",
+      "WATCHD" : "2018-02-08",
+      "SH_NAM" : "The Librarians",
+      "U_Opts" : "",
+      "U_Note" : "Random:104928197"
+    },
+    {
+      "TV_MID" : "11",
+      "EP_NUM" : "S04E22",
+      "WATCHD" : "2018-06-13",
+      "SH_NAM" : "Gotham",
+      "U_Opts" : "",
+      "U_Note" : "Random:1633874354"
+    },
+    {
+      "TV_MID" : "13",
+      "EP_NUM" : "S04E23",
+      "WATCHD" : "2018-05-30",
+      "SH_NAM" : "The Flash",
+      "U_Opts" : "",
+      "U_Note" : "Random:1395940302"
+    },
+    {
+      "TV_MID" : "1855",
+      "EP_NUM" : "S03E22",
+      "WATCHD" : "2018-06-20",
+      "SH_NAM" : "Blindspot",
+      "U_Opts" : "",
+      "U_Note" : "Random:1608052747"
+    },
+    {
+      "TV_MID" : "69",
+      "EP_NUM" : "S05E22",
+      "WATCHD" : "2018-05-28",
+      "SH_NAM" : "The Blacklist",
+      "U_Opts" : "",
+      "U_Note" : "Random:383625700"
+    },
+    {
+      "TV_MID" : "361",
+      "EP_NUM" : "S41E08",
+      "WATCHD" : "2016-03-31",
+      "SH_NAM" : "Saturday Night Live",
+      "U_Opts" : "",
+      "U_Note" : "Random:898764670"
+    },
+    {
+      "TV_MID" : "1866",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-03-10",
+      "SH_NAM" : "The Muppets",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:179776111"
+    },
+    {
+      "TV_MID" : "1819",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-09-16",
+      "SH_NAM" : "Dark Matter",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1521997408"
+    },
+    {
+      "TV_MID" : "61",
+      "EP_NUM" : "S05E02",
+      "WATCHD" : "2017-09-23",
+      "SH_NAM" : "Orphan Black",
+      "U_Opts" : "",
+      "U_Note" : "Random:1157176355"
+    },
+    {
+      "TV_MID" : "1867",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-03-29",
+      "SH_NAM" : "Second Chance",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:704597587"
+    },
+    {
+      "TV_MID" : "1865",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-04-01",
+      "SH_NAM" : "Dr. Ken",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1698938414"
+    },
+    {
+      "TV_MID" : "2275",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-07-25",
+      "SH_NAM" : "Angel from Hell",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:819214522"
+    },
+    {
+      "TV_MID" : "1864",
+      "EP_NUM" : "S03E22",
+      "WATCHD" : "2018-05-05",
+      "SH_NAM" : "Superstore",
+      "U_Opts" : "",
+      "U_Note" : "Random:1815576673"
+    },
+    {
+      "TV_MID" : "430",
+      "EP_NUM" : "S11E03",
+      "WATCHD" : "2018-01-20",
+      "SH_NAM" : "The X-Files",
+      "U_Opts" : "",
+      "U_Note" : "Random:1174838774"
+    },
+    {
+      "TV_MID" : "89",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2016-05-09",
+      "SH_NAM" : "Unforgettable",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:228209238"
+    },
+    {
+      "TV_MID" : "111",
+      "EP_NUM" : "S02E05",
+      "WATCHD" : "2018-09-24",
+      "SH_NAM" : "Once Upon a Time",
+      "U_Opts" : "",
+      "U_Note" : "Random:1457512361"
+    },
+    {
+      "TV_MID" : "3072",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-05-12",
+      "SH_NAM" : "The Catch",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:755895947"
+    },
+    {
+      "TV_MID" : "17127",
+      "EP_NUM" : "S02E24",
+      "WATCHD" : "2018-05-17",
+      "SH_NAM" : "Kevin Can Wait",
+      "U_Opts" : "",
+      "U_Note" : "Random:551517524"
+    },
+    {
+      "TV_MID" : "12888",
+      "EP_NUM" : "S02E21",
+      "WATCHD" : "2018-05-23",
+      "SH_NAM" : "Man With a Plan",
+      "U_Opts" : "",
+      "U_Note" : "Random:1640363261"
+    },
+    {
+      "TV_MID" : "8873",
+      "EP_NUM" : "S02E10",
+      "WATCHD" : "2018-06-06",
+      "SH_NAM" : "Timeless",
+      "U_Opts" : "",
+      "U_Note" : "Random:1554154261"
+    },
+    {
+      "TV_MID" : "12607",
+      "EP_NUM" : "S02E22",
+      "WATCHD" : "2018-05-21",
+      "SH_NAM" : "Bull",
+      "U_Opts" : "",
+      "U_Note" : "Random:511151884"
+    },
+    {
+      "TV_MID" : "2790",
+      "EP_NUM" : "S02E13",
+      "WATCHD" : "2018-02-02",
+      "SH_NAM" : "The Good Place",
+      "U_Opts" : "",
+      "U_Note" : "Random:610332687"
+    },
+    {
+      "TV_MID" : "12406",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-05-09",
+      "SH_NAM" : "The Great Indoors",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:2114996745"
+    },
+    {
+      "TV_MID" : "12112",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-04-23",
+      "SH_NAM" : "Pure Genius",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:547358985"
+    },
+    {
+      "TV_MID" : "5511",
+      "EP_NUM" : "S02E23",
+      "WATCHD" : "2018-05-11",
+      "SH_NAM" : "MacGyver",
+      "U_Opts" : "",
+      "U_Note" : "Random:1009286062"
+    },
+    {
+      "TV_MID" : "19254",
+      "EP_NUM" : "S02E06",
+      "WATCHD" : "2018-02-14",
+      "SH_NAM" : "Mary Kills People",
+      "U_Opts" : "",
+      "U_Note" : "Random:1253336824"
+    },
+    {
+      "TV_MID" : "1372",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "Bloodline",
+      "U_Opts" : "",
+      "U_Note" : "Random:1939183085"
+    },
+    {
+      "TV_MID" : "5495",
+      "EP_NUM" : "S02E22",
+      "WATCHD" : "2018-05-15",
+      "SH_NAM" : "Lethal Weapon",
+      "U_Opts" : "",
+      "U_Note" : "Random:1509346873"
+    },
+    {
+      "TV_MID" : "8167",
+      "EP_NUM" : "S02E22",
+      "WATCHD" : "2018-05-24",
+      "SH_NAM" : "Designated Survivor",
+      "U_Opts" : "",
+      "U_Note" : "Random:481449078"
+    },
+    {
+      "TV_MID" : "2988",
+      "EP_NUM" : "S02E13",
+      "WATCHD" : "2016-09-30",
+      "SH_NAM" : "Spun Out",
+      "U_Opts" : "",
+      "U_Note" : "Random:1195323296"
+    },
+    {
+      "TV_MID" : "1951",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "StarTalk",
+      "U_Opts" : "",
+      "U_Note" : "Random:651517560"
+    },
+    {
+      "TV_MID" : "497",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "Strip the Cosmos",
+      "U_Opts" : "",
+      "U_Note" : "Random:586377275"
+    },
+    {
+      "TV_MID" : "17312",
+      "EP_NUM" : "S02E13",
+      "WATCHD" : "2017-12-21",
+      "SH_NAM" : "Kim's Convenience",
+      "U_Opts" : "",
+      "U_Note" : "Random:681714002"
+    },
+    {
+      "TV_MID" : "1371",
+      "EP_NUM" : "S01E10",
+      "WATCHD" : "2017-01-17",
+      "SH_NAM" : "Westworld",
+      "U_Opts" : "",
+      "U_Note" : "Random:2047457863"
+    },
+    {
+      "TV_MID" : "5768",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-04-16",
+      "SH_NAM" : "Conviction",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:46946374"
+    },
+    {
+      "TV_MID" : "739",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-02-02",
+      "SH_NAM" : "The Odd Couple",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:1065339702"
+    },
+    {
+      "TV_MID" : "1825",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "The Expanse",
+      "U_Opts" : "",
+      "U_Note" : "Random:798738885"
+    },
+    {
+      "TV_MID" : "2745",
+      "EP_NUM" : "S03E12",
+      "WATCHD" : "2018-09-11",
+      "SH_NAM" : "Shooter",
+      "U_Opts" : "",
+      "U_Note" : "Random:226722485"
+    },
+    {
+      "TV_MID" : "8602",
+      "EP_NUM" : "S01E03",
+      "WATCHD" : "2017-01-08",
+      "SH_NAM" : "Bill Nye: The Science Guy",
+      "U_Opts" : "",
+      "U_Note" : "Random:439853463"
+    },
+    {
+      "TV_MID" : "305",
+      "EP_NUM" : "S04E06",
+      "WATCHD" : "2018-03-07",
+      "SH_NAM" : "Black Mirror",
+      "U_Opts" : "",
+      "U_Note" : "Random:1955915241"
+    },
+    {
+      "TV_MID" : "1868",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "Rosewood",
+      "U_Opts" : "",
+      "U_Note" : "Random:931320073"
+    },
+    {
+      "TV_MID" : "2793",
+      "EP_NUM" : "S01E09",
+      "WATCHD" : "2017-04-21",
+      "SH_NAM" : "Powerless",
+      "U_Opts" : "",
+      "U_Note" : "Random:2138791877"
+    },
+    {
+      "TV_MID" : "2992",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "Training Day",
+      "U_Opts" : "",
+      "U_Note" : "Random:627646115"
+    },
+    {
+      "TV_MID" : "18198",
+      "EP_NUM" : "[DONE]",
+      "WATCHD" : "2017-04-21",
+      "SH_NAM" : "Ransom",
+      "U_Opts" : "[DONE]",
+      "U_Note" : "Random:599413098"
+    },
+    {
+      "TV_MID" : "11786",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "24: Legacy",
+      "U_Opts" : "",
+      "U_Note" : "Random:1166147003"
+    },
+    {
+      "TV_MID" : "1363",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "Humans",
+      "U_Opts" : "",
+      "U_Note" : "Random:855855353"
+    },
+    {
+      "TV_MID" : "12336",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "APB",
+      "U_Opts" : "",
+      "U_Note" : "Random:2056925459"
+    },
+    {
+      "TV_MID" : "3104",
+      "EP_NUM" : "S02E04",
+      "WATCHD" : "2018-08-21",
+      "SH_NAM" : "Trial & Error",
+      "U_Opts" : "",
+      "U_Note" : "Random:1922042950"
+    },
+    {
+      "TV_MID" : "16623",
+      "EP_NUM" : "S01E02",
+      "WATCHD" : "2017-05-29",
+      "SH_NAM" : "Genius",
+      "U_Opts" : "",
+      "U_Note" : "Random:1407372877"
+    },
+    {
+      "TV_MID" : "20263",
+      "EP_NUM" : "S01E12",
+      "WATCHD" : "2017-12-11",
+      "SH_NAM" : "The Orville",
+      "U_Opts" : "",
+      "U_Note" : "Random:1549805072"
+    },
+    {
+      "TV_MID" : "7480",
+      "EP_NUM" : "S01E15",
+      "WATCHD" : "2018-02-20",
+      "SH_NAM" : "Star Trek: Discovery",
+      "U_Opts" : "",
+      "U_Note" : "Random:1328713564"
+    },
+    {
+      "TV_MID" : "20895",
+      "EP_NUM" : "S01E01",
+      "WATCHD" : "2018-03-14",
+      "SH_NAM" : "The Sinner",
+      "U_Opts" : "",
+      "U_Note" : "Random:1918524761"
+    },
+    {
+      "TV_MID" : "549",
+      "EP_NUM" : "S09E16",
+      "WATCHD" : "2018-05-06",
+      "SH_NAM" : "Will & Grace",
+      "U_Opts" : "",
+      "U_Note" : "Random:12654112"
+    },
+    {
+      "TV_MID" : "26020",
+      "EP_NUM" : "S01E22",
+      "WATCHD" : "2018-05-20",
+      "SH_NAM" : "Young Sheldon",
+      "U_Opts" : "",
+      "U_Note" : "Random:1296226661"
+    },
+    {
+      "TV_MID" : "25177",
+      "EP_NUM" : "S01E13",
+      "WATCHD" : "2018-01-15",
+      "SH_NAM" : "Wisdom of the Crowd",
+      "U_Opts" : "",
+      "U_Note" : "Random:318400099"
+    },
+    {
+      "TV_MID" : "12114",
+      "EP_NUM" : "S02E21",
+      "WATCHD" : "2018-05-15",
+      "SH_NAM" : "Superior Donuts",
+      "U_Opts" : "",
+      "U_Note" : "Random:1021940174"
+    },
+    {
+      "TV_MID" : "58",
+      "EP_NUM" : "",
+      "WATCHD" : "",
+      "SH_NAM" : "New Girl",
+      "U_Opts" : "",
+      "U_Note" : "Random:402079837"
+    }
+  ]
+}
